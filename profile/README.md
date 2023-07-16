@@ -6,4 +6,4 @@ FRAME Consulting is a boutique consulting firm specialised in financial risk man
 
 We develop and use applications and tools with state-of-the art quantitative models and technologies.
 
-For questions on our applications, tool and service offerings please get in touch via [info@frame-consult.de](info@frame-consult.de]).
+For questions on our applications, tool and service offerings please get in touch via [info@frame-consult.de](mailto:info@frame-consult.de?subject=[GitHub]).
