@@ -8,6 +8,12 @@ We develop and use applications and tools with state-of-the art quantitative mod
 
 For questions on our applications, tool and service offerings please get in touch via [info@frame-consult.de](mailto:info@frame-consult.de?subject=[GitHub]).
 
+## DiffFusion.jl
+
+We develop an open source exposure simulation engine for XVA and CCR. Key objectives are computational performance and flexibility in terms of model and product design.
+
+Details about the features are elaborated in the [package documentation](https://frame-consulting.github.io/DiffFusion.jl/dev/pages/overview/).
+
 ## QuantLib Quantitative Finance Library
 
 We maintain forks of the open source [QuantLib](https://www.quantlib.org/) library and its interfaces to Python, Excel and other high-level languages.
