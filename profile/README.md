@@ -14,6 +14,13 @@ We develop an open source exposure simulation engine for XVA and CCR. Key object
 
 Details about the features are elaborated in the [package documentation](https://frame-consulting.github.io/DiffFusion.jl/dev/pages/overview/).
 
+## DiffFusionServer.jl
+
+The DiffFusionServer.jl package provides a REST API and server app for the DiffFusion.jl exposure simulation engine. The API allows using the simulation engine independent
+of the client software stack. In particular, no local Julia installation is required.
+
+Communication is established via HTTP requests and JSON data exchange. The DiffFusionServer can conveniently be used via [Docker](https://hub.docker.com/r/sschlenkrich/diff-fusion-server).
+
 ## QuantLib Quantitative Finance Library
 
 We maintain forks of the open source [QuantLib](https://www.quantlib.org/) library and its interfaces to Python, Excel and other high-level languages.
