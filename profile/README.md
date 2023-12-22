@@ -21,6 +21,18 @@ of the client software stack. In particular, no local Julia installation is requ
 
 Communication is established via HTTP requests and JSON data exchange. The DiffFusionServer can conveniently be used via [Docker](https://hub.docker.com/r/sschlenkrich/diff-fusion-server).
 
+## JSON Risk App
+
+An open source multi-tenant risk system based on JSON risk featuring
+
+ - support for all JSON risk instruments and features
+ - data backend with storage of market data, portfolios, scenarios, timeseries and more
+ - support for ad-hoc calculations in the browser on client hardware
+ - support for batch calculations on the server hardware
+ - straightforward multi-tenant and cluster setup
+ - simple identity and access management supporting passwordless login
+ - flexible extension framework
+
 ## QuantLib Quantitative Finance Library
 
 We maintain forks of the open source [QuantLib](https://www.quantlib.org/) library and its interfaces to Python, Excel and other high-level languages.
